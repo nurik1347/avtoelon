@@ -1,0 +1,73 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "img": "https://png.pngtree.com/png-vector/20230206/ourlarge/pngtree-red-sports-car-png-image_6586882.png",
+        "title": "Avtomobillar"
+      },
+      {
+        "id": 2,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgaEq49rhwi3aMnLR94IRZjZiiZWUOBmrzCA&s",
+        "title": "Yuk mashinalari"
+      },
+      {
+        "id": 3,
+        "img": "https://cdn-icons-png.flaticon.com/512/2061/2061974.png",
+        "title": "Ehtiyot qismlari va tovarlar"
+      },
+      {
+        "id": 4,
+        "img": "https://cdn-icons-png.flaticon.com/512/6678/6678123.png",
+        "title": "Maxsus texnika"
+      },
+      {
+        "id": 5,
+        "img": "https://w7.pngwing.com/pngs/504/557/png-transparent-spanners-hammer-tool-socket-wrench-others.png",
+        "title": "Ta'mirlash va xizmatlar"
+      }
+    ],
+    "yengilavtomabil": [
+        {
+          "id": 1,
+          "marka": "Matiz",
+          "dvigatel": "0.8",
+          "qutisi": "Mexanika",
+          "yoqilgi": "Benzin",
+          "kuzov": "Hatchback",
+          "uzatma": "Oldi",
+          "Shahar": "Toshkent",
+          "raqam": "887060903",
+          "tafsilot": "Chevrolet Matiz",
+          "narx": "2.400 y.e",
+          "img1": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Daewoo_Matiz_front_20090920.jpg",
+          "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbu48r2mBk5PrvAe9dwuN9Ufd9tSx1PCOZwUuEQ5EB6688y67e0r82150ySmPVvbbDVo0&usqp=CAU",
+          "likecount": "12",
+          "vaqt": "15:20",
+          "yili": "2008",
+          "viewcount": "12",
+          "budjet": "A'LO"
+        },
+        {
+            "id": 2,
+            "marka": "Maluba",
+            "dvigatel": "2.0",
+            "qutisi": "Avtomat",
+            "yoqilgi": "Propan",
+            "kuzov": "Hatchback",
+            "uzatma": "Oldi",
+            "Shahar": "Toshkent",
+            "raqam": "973303545",
+            "tafsilot": "Chevrolet Maluba",
+            "narx": "24.000 y.e",
+            "img1": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Daewoo_Matiz_front_20090920.jpg",
+            "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbu48r2mBk5PrvAe9dwuN9Ufd9tSx1PCOZwUuEQ5EB6688y67e0r82150ySmPVvbbDVo0&usqp=CAU",
+            "likecount": "12",
+            "vaqt": "20:01",
+            "yili": "2025",
+            "viewcount": "12",
+            "budjet": "A'LO"
+          }
+      ]
+    
+  }
+  
